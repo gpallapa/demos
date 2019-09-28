@@ -1,2 +1,2 @@
 # demos
-Docker Sample - Example Voting App
+Different Demos
